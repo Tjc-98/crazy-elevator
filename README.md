@@ -1,6 +1,6 @@
 # Crazy Elevator
 
-A small terminal-based puzzle game written in C. You're stuck in an elevator that can only move a fixed number of floors up or down — and you need to reach a randomly chosen target floor.
+A small terminal-based puzzle game written in C. You're stuck in an elevator that can only move a fixed number of floors up or down, and you need to reach a randomly chosen target floor.
 
 ---
 
@@ -53,7 +53,7 @@ If a move would take you outside the building (below floor 1 or above floor 30),
 
 ### Prerequisites
 
-- A C compiler — [GCC](https://gcc.gnu.org/) or [Clang](https://clang.llvm.org/) work fine
+- A C compiler ([GCC](https://gcc.gnu.org/) or [Clang](https://clang.llvm.org/) work fine)
 - `make` (optional, for convenience)
 
 ### Building
